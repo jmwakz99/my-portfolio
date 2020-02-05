@@ -25,7 +25,7 @@
             <span style="color: grey">Developer</span>
           </p>
           <p style="font-size: 1.5rem; color: grey">
-            Proficient in,
+            Proficient in
             <span style="color: #0096cc"
               >Html5, Css3, JavaScript, VueJs and Firebase</span
             >
